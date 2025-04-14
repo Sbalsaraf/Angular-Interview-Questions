@@ -62,7 +62,7 @@ Scss benefits
 Lazy loading 
 
 
-iceDQ
+Others
 
 New semantic elements in HTML
 Event Loop
@@ -83,12 +83,6 @@ Packages in package.json
 What is typescript 
 Access modifier in ts
 Lint
-
-
-
-
-Synoptek
-
 What is better reactive forms and template driven forms in terms of capability
 Which is better angular or react
 If parent child relationship does not exist what is use to communicate 
@@ -100,9 +94,6 @@ Attacks in html angular how you reduce
 Angular universal
 How you handle api exception
 Displaynon in HTML 
-
-
-Tcs
 What is standalone comp
 What is @Inject
 Error in template driven
@@ -123,10 +114,6 @@ what is inheritance
 What is difference between behaviour subject and subject
 Html5 features
 Difference angular and angularjs
-
-
-Trellisoft -Techno managerial
-
 Which liabraries are used for integration of bar charts pie charts in angular
 In microfrontend if you have old and new versions in one application how we will manage the routing in micro fronts ends
  What are the things we should check while code review or approving the merge request 
@@ -136,10 +123,6 @@ How we should minimize production builds
 How can we implement AOT compilation 
 How we can manage filtering and pagination in aggrid when api gets call
 Define a static integer array write a function and find a minimum number
-
-
-Nice
-
 Difference between js ts and ecmascript
 Anagram code
 Rest spread difference 
@@ -148,10 +131,6 @@ Position relative and position absolute
 Without parent child relation how many ways you can communicate between them
 Want to share simple string between two component  without parent child relation -write a code
 Difference between subject and behaviour subject
-
-
-Generalised
-
 Signals
 Switcmap and mergemap
 Hydration in angular
