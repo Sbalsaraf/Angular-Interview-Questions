@@ -1,0 +1,161 @@
+Lotus flare
+
+Rest api  vs graphql api
+Event loop
+Promise and asynchronous await difference
+What is asynchronous function
+Basic of html js and css
+What is framework and liabraries
+If you an language why you use framework
+What is DoM
+What is storages regarding ngrx 
+In css sass or LESS
+Tell about typescript 
+Why need of typescript if we have 
+What is webpack and what it does
+Recent discoveries in front end what you have amazed of
+What we use for connecting backned
+Single spa and mfe
+
+
+Neosoft 
+Difference between promise & observable
+What is Authguard
+Let var const
+What is interceptors 
+Difference between HTML5 & previous version 
+Callback function 
+Closure
+Data binding
+How to pass data from one component to another component 
+Difference between synchronous and asynchronous 
+Pipes
+
+
+Imocha
+
+What is Angular
+Why you need Angular if you have html,CSS,Js
+Data Binding in Angular
+If you want use ngModel what you will need to import
+Parent child communication 
+How rxjs subject works
+Which lifecycle executes for input property change
+Directives and custom directives implementation
+Pipes and custom pipe 
+Methods we use to create custom pipe ie the implementation 
+What we use to avoid extra space when  using ngFor
+Difference between template driven & reactive forms
+What is wild card routes…..
+How can we access the route params passed in the url and in which lifecycle method we can read that
+In Angular what do you use for calling an API and location where we fetch it in component 
+All the lifecycle hooks and its details
+Http interceptor
+Observables & places where we use observable 
+Map we use in success block or error block
+Can we use map in any of the response or the response should be in particular format
+Difference between promise and observable
+If i have one method getdata that is calling one api and returning observable but i havent subscibed to the observable and another method getdatapromise which is also calling one api which is returning a promise for  which i havent returned then and catch block between this which api call will be executed or both will execute 
+Can we unsubscribe to the observable 
+Why should we unsubscribe to the observable 
+Scss benefits
+Lazy loading 
+
+
+iceDQ
+
+New semantic elements in HTML
+Event Loop
+Closure
+Var let const diff
+What are promise & how it works
+Object methods
+Object.freeze vs Object.seal
+Callback hell
+Shallow and deep copy
+IIFE 
+Es6 features
+Array.flat
+Array in descending order
+Angular latest version its features
+Is Js synchronous & techniques to make it asynchronous 
+Packages in package.json
+What is typescript 
+Access modifier in ts
+Lint
+
+
+
+
+Synoptek
+
+What is better reactive forms and template driven forms in terms of capability
+Which is better angular or react
+If parent child relationship does not exist what is use to communicate 
+How to increase performance of module in UI perspective 
+Router events
+Routerlink
+Steps of migration and issues encountered 
+Attacks in html angular how you reduce
+Angular universal
+How you handle api exception
+Displaynon in HTML 
+
+
+Tcs
+What is standalone comp
+What is @Inject
+Error in template driven
+Canactivate guard
+Angular 17 features
+Ngrx 
+Html animation
+Css box model
+Http interceptor
+Loadchildren method
+Why const in arrow function
+Let const var difference
+Find , indexOf
+Angular commands 
+Ngif modification in latest version
+Angular is straightforward or use OOP
+what is inheritance 
+What is difference between behaviour subject and subject
+Html5 features
+Difference angular and angularjs
+
+
+Trellisoft -Techno managerial
+
+Which liabraries are used for integration of bar charts pie charts in angular
+In microfrontend if you have old and new versions in one application how we will manage the routing in micro fronts ends
+ What are the things we should check while code review or approving the merge request 
+What is take() in rxjs or http interceptor 
+Best practices frontend developer should follow while setting up routing
+How we should minimize production builds
+How can we implement AOT compilation 
+How we can manage filtering and pagination in aggrid when api gets call
+Define a static integer array write a function and find a minimum number
+
+
+Nice
+
+Difference between js ts and ecmascript
+Anagram code
+Rest spread difference 
+Css modal box at cross button at corner
+Position relative and position absolute
+Without parent child relation how many ways you can communicate between them
+Want to share simple string between two component  without parent child relation -write a code
+Difference between subject and behaviour subject
+
+
+Generalised
+
+Signals
+Switcmap and mergemap
+Hydration in angular
+Resolver 
+How can i provide role based routing only specific roles to access the route
+Jasmin karma
+Pass by value and pass by reference 
